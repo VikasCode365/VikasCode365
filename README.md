@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasCode365 
 - 👀 I’m interested in Web Development and Software development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning DSA in C++
   
 - 📫 How to reach me ... vikas301003@gmail.com
 
